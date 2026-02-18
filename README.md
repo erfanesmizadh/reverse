@@ -33,6 +33,5 @@ Designed for stable IRAN ↔ Foreign server tunneling with auto reconnect, syste
 
 Clone repository:
 
-```bash
-git clone https://github.com/erfanesmizadh/reverse.git
-cd reverse
+```
+bash <(curl -Ls https://raw.githubusercontent.com/erfanesmizadh/reverse/main/ssh-ultimate.sh)
